@@ -1,2 +1,1 @@
-Hi this is git1
-This is next commit1
+This is for rebase change def.txt
