@@ -1,3 +1,7 @@
+<<<<<<< Updated upstream
 Hi this is git1
 This is next commit1
 This is for stashing file1
+=======
+This is for Stashing
+>>>>>>> Stashed changes
